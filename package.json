@@ -1,0 +1,27 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "ANGULAR JS PLAYGROUND",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David M. Miller <daxdoxsi@gmail.com>",
+  "license": "GPL",
+  "keywords": [
+    "angularjs",
+    "test",
+    "scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidjmmiller/angularplayground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidjmmiller/angularplayground/issues"
+  }
+}
